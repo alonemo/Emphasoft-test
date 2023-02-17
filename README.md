@@ -1,10 +1,8 @@
-## Install
+### Install:
 
-You need to run:
+- `npm install`
 
-### `npm install`
-
-### Задание:
+### Task:
 
 Необходимо сделать SPA с адаптивной версткой, где будет реализована авторизация пользователя с валидацией, плюс еще одно задание на выбор:
 1. Отображение списка пользователей с фильтрацией по юзернейму и сортировкой по ID - :white_check_mark: Done.
@@ -13,7 +11,7 @@ You need to run:
 ### Backend:
 https://test-assignment.emphasoft.com/api-docs/swagger/
 
-#### Доступ 
+#### Access:
 Username: test_super <br/>
 Password: Nf<U4f<rDbtDxAPn 
 
