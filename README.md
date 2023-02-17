@@ -16,3 +16,6 @@ https://test-assignment.emphasoft.com/api-docs/swagger/
 #### Доступ 
 Username: test_super <br/>
 Password: Nf<U4f<rDbtDxAPn 
+
+### Link:
+https://auth-test-1dbd9.web.app/
